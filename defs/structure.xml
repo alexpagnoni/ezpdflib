@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<structure>
+    <generalpostinstall
+        file="generalpostinstall.php"/>
+
+    <generalpreupdate
+        file="generalpreupdate.php"/>
+
+    <generalpreuninstall
+        file="generalpreuninstall.php"/>
+
+    <library
+        name="ezpdf"
+        file="ezpdf.library"/>
+
+
+</structure>

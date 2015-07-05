@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = ezpdflib
+
+# Module version number
+MODULEVERSION      = 0.0.9-1
+
+# Module release date
+MODULEDATE         = 2004/04/15
+
+# Module long description
+MODULEDESCRIPTION  = Class for creation of dynamic pdf documents.
+
+# Module dependencies
+MODULEDEPENDENCIES = ampoliros[3.0.0]
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = R&OS
+
+MODULE_AUTHOR_EMAIL  = info@ros.co.nz
+
+MODULE_AUTHOR_SITE   = http://www.ros.co.nz/pdf/
+
+MODULE_SUPPORT_EMAIL = info@ros.co.nz
+
+MODULE_BUGS_EMAIL    = info@ros.co.nz
+
+MODULE_COPYRIGHT     = 
+
+MODULE_LICENSE       = Public Domain
+
+MODULE_LICENSE_FILE  =
+
+MODULE_MAINTAINER	= Roberto Ricci - Solarix
+
+MODULE_MAINTAINER_EMAIL	= roberto.ricci@solarix.it
+
+MODULE_CATEGORY     = libraries
